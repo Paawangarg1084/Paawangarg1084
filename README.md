@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Paawan!<br>I am a passionate Software Engineer currently working on Full Stack Development. <br>I’m actively learning Java Development <br>I'm enthusiastic about collaborating on web development projects.<br><br>💡 Fun Fact: I love exploring new technologies and continuously improving my skills to build impactful software.
+👋 Hi, I’m Harris!<br>I am a passionate Software Engineer currently working on Full Stack Development. <br>I’m actively learning Java Development <br>I'm enthusiastic about collaborating on web development projects.<br><br>💡 Fun Fact: I love exploring new technologies and continuously improving my skills to build impactful software.
 
 
 ## 🌐 Socials:
