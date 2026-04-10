@@ -10,15 +10,9 @@
 <div align="center">
   
 ## 📊 GitHub Stats
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=Paawangarg1084&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=Paawangarg1084&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paawangarg1084&layout=compact&theme=tokyonight)
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Paawangarg1084&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies![Trophies](https://github-profile-trophy.vercel.app/?username=Paawangarg1084&theme=onedark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
