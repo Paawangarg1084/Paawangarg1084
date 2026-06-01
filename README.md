@@ -15,7 +15,31 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Paawangarg1084&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Paawangarg1084&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🚀 Open Source Contributions
+
+I contribute directly to modern design systems and web frameworks. Here is my latest merged feature:
+
+<table>
+  <tr>
+    <td>
+      <img src="https://shields.io" alt="PR Merged Badge">
+    </td>
+    <td>
+      <img src="https://shields.io" alt="GSSoC Approved">
+    </td>
+    <td>
+      <img src="https://shields.io" alt="Level Intermediate">
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Featured Pull Request
+* **[EaseMotion-css #694](https://github.com)** — **Implemented `ease-hamburger` Pure CSS Component**
+  * **Issue Solved:** Target Tracking for [Issue #478](https://github.com)
+  * **Tech Stack:** Semantic HTML5, CSS3 Variables, Transition Layers, CSS Structural Selectors (`:checked`, `+`, `:nth-child`)
+  * **Core Logic:** Implemented a zero-JavaScript, smooth 3-bar UI element morphing accurately into an "X" close interface without tracking drift.
+  * **Project Scope:** Verified, accepted, and integrated under the official Global Summer of Code 2026 framework guidelines.
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=Paawangarg1084&icon=0&color=1)](https://visitcount.itsvg.in)
