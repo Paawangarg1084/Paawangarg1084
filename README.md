@@ -40,8 +40,6 @@ I contribute directly to modern design systems and web frameworks. Here is my la
   * **Core Logic:** Implemented a zero-JavaScript, smooth 3-bar UI element morphing accurately into an "X" close interface without tracking drift.
   * **Project Scope:** Verified, accepted, and integrated under the official Global Summer of Code 2026 framework guidelines.
 
-
----
 [![](https://komarev.com/ghpvc/?username=Paawangarg1084&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
