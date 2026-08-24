@@ -28,16 +28,6 @@ I contribute directly to modern design systems and web frameworks. Here is my la
     </td>
   </tr>
 </table>
-
-### 🛠️ Featured Pull Request
-* **[EaseMotion-css #694](https://github.com)** — **Implemented `ease-hamburger` Pure CSS Component**
-  * **Issue Solved:** Target Tracking for [Issue #478](https://github.com)
-  * **Tech Stack:** Semantic HTML5, CSS3 Variables, Transition Layers, CSS Structural Selectors (`:checked`, `+`, `:nth-child`)
-  * **Core Logic:** Implemented a zero-JavaScript, smooth 3-bar UI element morphing accurately into an "X" close interface without tracking drift.
-  * **Project Scope:** Verified, accepted, and integrated under the official Global Summer of Code 2026 framework guidelines.
-
-[![](https://komarev.com/ghpvc/?username=Paawangarg1084&icon=0&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### ✍️ Random Dev Quote
