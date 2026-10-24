@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02020a,45:081c10,100:003b14&height=230&section=header&text=Paawan%20Garg&fontSize=62&fontColor=00FF01&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20B.Tech%20CSE%20(Data%20Science)&descAlignY=57&descSize=19&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:02020a,45:081c10,100:003b14&height=230&section=header&text=Paawan%20Garg&fontSize=62&fontColor=00FF01&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20B.Tech%20CSE%20(Data%20Science)&descAlignY=57&descSize=19&descAlign=50&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Paawangarg1084&style=for-the-badge&color=00ff01&labelColor=02020a&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://hits.sh/github.com/Paawangarg1084/"><img src="https://hits.sh/github.com/Paawangarg1084.svg?style=for-the-badge&label=PROFILE+VIEWS&color=00ff01&labelColor=02020a" alt="Profile Views" /></a>
 
 </div>
 
@@ -169,9 +169,9 @@ Alongside my primary web stack, I continually strengthen my core computer scienc
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Paawangarg1084&show_icons=true&theme=matrix&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Paawangarg1084&show_icons=true&bg_color=02020a&title_color=00ff01&text_color=ffffff&icon_color=00ff01&hide_border=true" alt="GitHub Stats" />
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Paawangarg1084&theme=matrix&hide_border=true" alt="GitHub Streak" />
+<img height="180" src="https://streak-stats.demolab.com/?user=Paawangarg1084&theme=dark&background=02020a&stroke=00ff01&ring=00ff01&fire=00ff01&currStreakLabel=00ff01&sideLabels=ffffff&dates=00ff01&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -179,7 +179,7 @@ Alongside my primary web stack, I continually strengthen my core computer scienc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paawangarg1084&layout=compact&theme=matrix&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paawangarg1084&layout=compact&bg_color=02020a&title_color=00ff01&text_color=ffffff&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -264,4 +264,4 @@ Continuous Shipping
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b14,50:081c10,100:02020a&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:003b14,50:081c10,100:02020a&height=120&section=footer" width="100%"/>
